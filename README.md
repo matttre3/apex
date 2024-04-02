@@ -30,10 +30,3 @@ Apex allows users to create leagues/campaigns, draft teams every week, maintain 
 
 - **Integration with Real Race Data**: Apex integrates with real race data to update users' teams and league standings based on actual Formula 1 race results.
 
-## Contribution
-
-Contributions to Apex are welcome! Whether it's through feedback, bug reports, or feature suggestions, your input is valuable in shaping the development of this project. Feel free to submit issues or pull requests to contribute to the project's growth.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
